@@ -66,3 +66,74 @@ display: flex;
     margin-top: 3%;
    
 }
+
+/* WORK BY SECOND PERSON */
+/* WHOLE HEADING BOX  */
+#secondrowh{
+    background-color: #4D1B11;
+    margin-top: 5%;
+    height: 120px;
+    width: 100%;
+    
+}
+/* Heading text */
+#secondrowh h1{
+    color: white;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+
+#cakecards{
+    display: flex;
+    }
+
+#cakecarditems{
+     margin-top: 1%;
+    height: 490px;
+    width: 19%;
+    border-radius: 24px;
+    margin-left: 5%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#cakecarditems img{
+    width: 100%;
+    height: 270px;
+    border-radius: 24px 24px 0 0;
+    
+}
+
+#cakecarditems h3{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2%;
+    color: black;
+}
+
+#cakecarditems p{
+    text-align: center;
+    padding: 5%;
+    font-size: 15px;
+}
+
+#cakecarditems h5{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#cakecarditems button{
+    border-radius: 15px;
+    color: white;
+    background-color: #4D1B11; 
+    border: none;
+    padding: 1%;
+    padding-left: 18%;
+    padding-right: 18%;
+    text-align: center;
+    margin-left: 14%;
+    margin-top: 3%;
+   
+}
